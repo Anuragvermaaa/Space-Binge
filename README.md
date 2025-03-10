@@ -59,11 +59,6 @@ Collapse
 
 Wrap
 
-Copy
-npm start
-Usage
-Once running, visit http://localhost:3000 (or your configured port) in your browser. Explore the galaxy of movies and shows fetched from TMDB, powered by Firebase’s backend magic!
-
 Contributing
 Contributions are welcome! Fork the repo, submit pull requests, or open issues for bugs and feature ideas. Let’s make Space Binge even more cosmic together.
 
