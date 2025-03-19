@@ -15,7 +15,9 @@
   gap: 50px;
 }
 .navbar-left img{
-  width: 90px;
+  width: 130px;
+  height: 60px;
+  background: transparent;
 }
 .navbar-left ul{
   display: flex;
