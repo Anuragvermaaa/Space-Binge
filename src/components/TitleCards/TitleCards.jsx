@@ -35,7 +35,7 @@ useEffect(()=> {
 }, [])
   return (
     <div className='title-cards'>
-      <h2>{title?title:"Popular on Netflix"}</h2> 
+      <h2>{title?title:"Popular on SpaceBinge"}</h2> 
       <div className="card-list" ref={cardsRef}>
         {apiData.map((card, index) => {
        return <Link to={`/player/${card.id}`} className="card" key={index}>
